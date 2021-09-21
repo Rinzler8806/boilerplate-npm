@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shane Rogers",
 	"description": "A project that will help better my skills",
+	"keywords": [ "help", "self-improvement", "tutorial" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
